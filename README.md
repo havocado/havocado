@@ -10,6 +10,11 @@ I am currently busy getting over 30 assignments, 10 weekly quizzes and 14 exams 
 
 I am planning to code a raytracer when my schoolwork is done.
 
+**🖥️ Work Experience**
+
+- Sep 2022 ~ Dec 2022: USRA Undergraduate Research - Repos [🗄️ semantic_mapping](https://github.com/havocado/semantic_mapping) [🗄️ 3d-reconstruction](https://github.com/havocado/3d-reconstruction)
+- May 2021 ~ Dec 2021: Co-op Web Developer
+
 **🏆 I am proud of:**
 
 - **Achieving 13th place on ICPC Pacific Northwest Regionals 2021**: This makes my team 4th in Vancouver and I am proud of it! ACM-ICPC is the biggest algorithm competition for college students in the world. Also mentioned on SFU website - https://www.sfu.ca/computing/newsandevents/2022/sfu-computing-science-students-win-multiple-awards-at-2021-icpc-.html
@@ -20,14 +25,6 @@ I am planning to code a raytracer when my schoolwork is done.
 
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
-**🏘️ Groups I love**
-
-- **SFU Mathematics Students Union** - Student union for Math ~nerds~ students! A lot of happy memories while working as an exec for MSU during most of my studies in 2019-2023. Website: https://sfumsu.github.io/
-
-- **SFU Competitive Programming Club** - I would say this is one of the best clubs for programmers at SFU! I participated as a problem setter around 2020 when I did a lot of algorithm programming. It is an amazing club that runs weekly practices and introduces students to ICPC/leetcode style programming problems.
-
-- **SFU Artists Club** - A lovely club that gathers every week to make art and ~draw weird things on whiteboard~
-
 **✨ Projects and repositories**
 
 - (2022) My research effort that didn't quite work out - [3d-reconstruction](https://github.com/havocado/3d-reconstruction)
@@ -37,6 +34,14 @@ I am planning to code a raytracer when my schoolwork is done.
 - (2020) An algorithm problem I wrote - https://vjudge.net/contest/578547#problem/A
 
 - (2020) A collection of C++ code for coding problems - https://havocado.github.io/cpp-2020-april
+
+**🏘️ Groups I love**
+
+- **SFU Mathematics Students Union** - Student union for Math ~nerds~ students! A lot of happy memories while working as an exec for MSU during most of my studies in 2019-2023. Website: https://sfumsu.github.io/
+
+- **SFU Competitive Programming Club** - I would say this is one of the best clubs for programmers at SFU! I participated as a problem setter around 2020 when I did a lot of algorithm programming. It is an amazing club that runs weekly practices and introduces students to ICPC/leetcode style programming problems.
+
+- **SFU Artists Club** - A lovely club that gathers every week to make art and ~draw weird things on whiteboard~
 
 **💬 Other links:**
 
