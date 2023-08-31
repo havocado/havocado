@@ -12,7 +12,7 @@ I am planning to code a raytracer when my schoolwork is done.
 
 **🖥️ Work Experience**
 
-- Sep 2022 ~ Dec 2022: USRA Undergraduate Research - See repos below!
+- Sep 2022 ~ Dec 2022: USRA Undergraduate Research - See Projects and Repositories below!
 
 <!--**Repos [🗄️ semantic_mapping](https://github.com/havocado/semantic_mapping) [🗄️ 3d-reconstruction](https://github.com/havocado/3d-reconstruction)**-->
 
