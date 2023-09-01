@@ -24,7 +24,7 @@ I am planning to code a raytracer when my schoolwork is done.
 
 - **Top 500 for Putnam Mathematical Competition 2022**: This was the highest score for SFU in 5 years and I got a free A+ for a course in SFU for achieving this! Putnam is competition for undergraduates in mathematics. See website - https://www.sfu.ca/math/undergraduate/current/research-awards-and-competitions/putnam-competition.html
 
-- **Winning 1st place (tie) in Clash of Equations (UBC vs. SFU vs. TRU Math Contest) 2023**: Will be on SFU website soon!
+- **Winning 1st place (tie) in Clash of Equations (UBC vs. SFU vs. TRU Math Contest) 2023**: See website - https://www.sfu.ca/math/events-news/news/2023-news/ClashofEquations2023.html
 
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
