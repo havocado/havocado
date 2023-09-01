@@ -1,6 +1,6 @@
 ### Hello! I'm Hailey. 
 
-I am a student joint majoring Computer Science and Mathematics at Simon Fraser University, and I am expecting to graduate September 2023.
+I am a student majoring Computer Science and Mathematics at Simon Fraser University, and I am expecting to graduate September 2023.
 
 My passion lies in Computer Graphics and I am looking into a career in the field of Rendering/Animations. 
 
