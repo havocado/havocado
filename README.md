@@ -28,8 +28,6 @@ I am planning to code a raytracer when my schoolwork is done.
 
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
-- Surviving thyroid cancer and achieving all above with a medication hindering concentration
-
 **✨ Projects and repositories**
 
 - (2022) My research effort that didn't quite work out - [3d-reconstruction](https://github.com/havocado/3d-reconstruction)
