@@ -8,7 +8,7 @@ My passion lies in Computer Graphics and I am looking into a career in the field
 
 I am a Schrödinger's graduate - during the final exam period last month (Aug 2023) I got sick and got some of my exams rescheduled. I didn't get my final grades yet so I'm not officially graduated, but I am done taking courses and waiting for SFU to process my graduation.
 
-In the meantime I am reading PBRT and learning rendering. Take a look at my fancy LaTeX note I wrote while learning Volume Scattering: [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](230913-understanding-absorption-cross-section.md)
+In the meantime I am reading PBRT and learning rendering. Take a look at my fancy LaTeX note I wrote while learning Volume Scattering: [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
 
 **🖥️ Work Experience**
 
