@@ -29,7 +29,7 @@ In the meantime I am reading PBRT and learning rendering. Take a look at my fanc
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
 - <details>
-  <summary>Surviving thyroid cancer and achieving all above with medication hindering concentration</summary>
+  <summary>Surviving thyroid cancer and achieving all above</summary>
   <p>
   <blockquote>
     <p>I don't mention this often because cancer feels like a too heavy topic to bring up in an everyday conversation, so it's normal if you already knew me for a while but never heard about this! 😆
