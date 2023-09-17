@@ -53,6 +53,9 @@ In the meantime I am reading PBRT and learning rendering. Take a look at my fanc
 
 **✨ Projects and repositories**
 
+- (2023) Rendering related stuff:
+  - [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
+
 - (2022) My research effort that didn't quite work out - [3d-reconstruction](https://github.com/havocado/3d-reconstruction)
 
 - (2022) My research effort that taught me a lot and worked in some degree - [semantic_mapping](https://github.com/havocado/semantic_mapping)
