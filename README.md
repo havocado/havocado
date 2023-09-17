@@ -4,7 +4,7 @@ I am a student majoring Computer Science and Mathematics at Simon Fraser Univers
 
 My passion lies in Computer Graphics and I am looking into a career in the field of Rendering/Animations. 
 
-**Recent interests (last edit: Sep 15, 2023)**
+**Recent interests (last edit: Sep 17, 2023)**
 
 I am a Schrödinger's graduate - during the final exam period last month (Aug 2023) I got sick and got some of my exams rescheduled. I didn't get my final grades yet so I'm not officially graduated, but I am done taking courses and waiting for SFU to process my graduation.
 
