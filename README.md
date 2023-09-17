@@ -28,6 +28,29 @@ In the meantime I am reading PBRT and learning rendering. Take a look at my fanc
 
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
+- <details>
+  <summary>Surviving thyroid cancer and achieving all above with medication hindering concentration</summary>
+  <p>
+  <blockquote>
+    <p>I don't mention this often because cancer feels like a too heavy topic to bring up in an everyday conversation, so it's normal if you already knew me for a while but never heard about this! 😆
+  
+    <p>I had thyroid cancer several years ago. It's one of the least fatal kind of cancer and I am doing fine (after removing thyroid and going through RAI therapy - it was sure an interesting experience to become radioactive for a week)
+  
+  I'm currently on TSH suppression, which prevents remaining thyroid cells doing any work, so suppressing the possibility of recurrent cancer. This causes common hyperthyroidism-like symptoms such as:
+  - Fatigue (need 9+ hours of sleep everyday)
+  - Fast heartbeat
+  - Hard to concentrate
+  - Sensitivity to cold/heat (the reason I carry an extra clothing everywhere)
+  - Weight loss
+<br></br>
+ 
+  I am aware that disclosing past cancer can bring some social stigma such as being unable to perform work and being weak (as some studies [[1](https://www.researchgate.net/publication/302972012_The_Big_C-stigma_cancer_and_workplace_discrimination)] [[2](https://onlinelibrary.wiley.com/doi/10.1002/pon.5690)] have shown), so I will assure you that (1) I am expecting to cease TSH suppression within 2~3 years, (2) I maintained a GPA over A- while pursuing a difficult joint major, and (3) healthy enough to do deadlifts.
+
+  Cancer taught me to appreciate my life and follow my passion. In my teenage I often overworked until 1am in the highschool dorm to get good grades and only thought about being successful in the future. Now I make sure I'm not burned out on work, choose the field I enjoy the most (computer graphics!!) and enjoy hobbies (arts!!)
+  
+  I also have some bad shoulders due to lymph node dissection but I think that's fairly common among programmers.</blockquote>
+</details>
+
 **✨ Projects and repositories**
 
 - (2022) My research effort that didn't quite work out - [3d-reconstruction](https://github.com/havocado/3d-reconstruction)
