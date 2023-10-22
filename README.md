@@ -4,11 +4,17 @@ I am a student majoring Computer Science and Mathematics at Simon Fraser Univers
 
 My passion lies in Computer Graphics and I am looking into a career in the field of Rendering/Animations. 
 
-**Recent interests (last edit: Oct 10, 2023)**
+**Recent interests (last edit: Oct 22, 2023)**
 
-I graduated last week, taking a break before start looking for full-time work.
+I graduated early this October. I am taking a break and planning to look for work early next January.
 
-I am learning opengl and implementing a raytracer in C++. See repo: https://github.com/havocado/obj-raytracer
+In the meantime I am building my own raytracer in C++. See repo: https://github.com/havocado/raytracer-by-hailey
+
+![image](https://github.com/havocado/havocado/assets/47484587/9af986b6-7c16-422f-b589-8d389c5212c2)
+
+I am also writing up some 'what I learned' kind of posts:
+- [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
+- (Still writing!) https://github.com/havocado/notes/blob/2310/ray-triangle-intersection/231018-triangle-collision-raytracing.md
 
 **🖥️ Work Experience**
 
@@ -52,6 +58,8 @@ I am learning opengl and implementing a raytracer in C++. See repo: https://gith
 </details>
 
 **✨ Projects and repositories**
+
+- **(2023) Raytracer by Hailey** - [raytracer-by-hailey](https://github.com/havocado/raytracer-by-hailey)
 
 - (2023) Rendering related stuff:
   - [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
