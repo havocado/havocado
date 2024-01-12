@@ -1,6 +1,6 @@
 ### Hello! I'm Hailey. 
 
-I am a recent gruaduate from Simon Fraser University with a degree in Computer Science and Mathematics.
+I am a recent graduate from Simon Fraser University with a degree in Computer Science and Mathematics.
 
 My passion lies in Rendering/Mathematics and I am looking into a career in the field of Computer Graphics.
 
