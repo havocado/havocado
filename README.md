@@ -1,8 +1,8 @@
 ### Hello! I'm Hailey. 
 
-I am a student majoring Computer Science and Mathematics at Simon Fraser University, and I am expecting to graduate September 2023.
+I am a recent gruaduate from Simon Fraser University with a degree in Computer Science and Mathematics.
 
-My passion lies in Computer Graphics and I am looking into a career in the field of Rendering/Animations. 
+My passion lies in Rendering/Mathematics and I am looking into a career in the field of Computer Graphics.
 
 **Recent interests (last edit: Jan 12, 2024)**
 
