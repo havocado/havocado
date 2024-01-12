@@ -4,17 +4,19 @@ I am a student majoring Computer Science and Mathematics at Simon Fraser Univers
 
 My passion lies in Computer Graphics and I am looking into a career in the field of Rendering/Animations. 
 
-**Recent interests (last edit: Oct 22, 2023)**
+**Recent interests (last edit: Jan 12, 2024)**
 
-I graduated early this October. I am taking a break and planning to look for work early next January.
+I am spending my time learning rendering techniques before starting on job search.
 
 In the meantime I am building my own raytracer in C++. See repo: https://github.com/havocado/raytracer-by-hailey
 
-![image](https://github.com/havocado/havocado/assets/47484587/9af986b6-7c16-422f-b589-8d389c5212c2)
+![image](https://github.com/havocado/havocado/assets/47484587/8ec45da2-0e96-4073-82b6-c8217da1988f)
 
 I am also writing up some 'what I learned' kind of posts:
 - [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
 - (Still writing!) https://github.com/havocado/notes/blob/2310/ray-triangle-intersection/231018-triangle-collision-raytracing.md
+
+January 2024: I wrote up some problems for MASH 2024 programming contest. See repo: https://github.com/ablondal/MASH_2024
 
 **🖥️ Work Experience**
 
@@ -34,32 +36,14 @@ I am also writing up some 'what I learned' kind of posts:
 
 - Other: MASH Programming Contest 2023 (3rd place), A Strange Programming Contest 2022 (3rd place), MSU-UMS (SFU vs. UBC) Math Contest 2022 (3rd place)
 
-- <details>
-  <summary>Surviving thyroid cancer and achieving all above</summary>
-  <p>
-  <blockquote>
-    <p>I don't mention this often because cancer feels like a too heavy topic to bring up in an everyday conversation, so it's normal if you already knew me for a while but never heard about this! 😆
-  
-    <p>I had thyroid cancer several years ago. It's one of the least fatal kind of cancer and I am doing fine (after removing thyroid and going through RAI therapy - it was sure an interesting experience to become radioactive for a week)
-  
-  I'm currently on TSH suppression, which prevents remaining thyroid cells doing any work, so suppressing the possibility of recurrent cancer. This causes common hyperthyroidism-like symptoms such as:
-  - Fatigue (need 9+ hours of sleep everyday)
-  - Fast heartbeat
-  - Hard to concentrate
-  - Sensitivity to cold/heat (the reason I carry an extra clothing everywhere)
-  - Weight loss
-<br></br>
- 
-  I am aware that disclosing past cancer can bring some social stigma such as being unable to perform work and being weak (as some studies [[1](https://www.researchgate.net/publication/302972012_The_Big_C-stigma_cancer_and_workplace_discrimination)] [[2](https://onlinelibrary.wiley.com/doi/10.1002/pon.5690)] have shown), so I will assure you that (1) I am expecting to cease TSH suppression within 2~3 years, (2) I maintained a GPA over A- while pursuing a difficult joint major, and (3) healthy enough to do deadlifts.
-
-  Cancer taught me to appreciate my life and follow my passion. In my teenage I often overworked until 1am in the highschool dorm to get good grades and only thought about being successful in the future. Now I make sure I'm not burned out on work, choose the field I enjoy the most (computer graphics!!) and enjoy hobbies (arts!!)
-  
-  I also have some bad shoulders due to lymph node dissection but I think that's fairly common among programmers.</blockquote>
-</details>
 
 **✨ Projects and repositories**
 
-- **(2023) Raytracer by Hailey** - [raytracer-by-hailey](https://github.com/havocado/raytracer-by-hailey)
+- **(2023~2024) Raytracer by Hailey** - [raytracer-by-hailey](https://github.com/havocado/raytracer-by-hailey)
+
+- (2024) New Year's MASH Programming Contest - [MASH_2024](https://github.com/ablondal/MASH_2024)
+  - Wrote problems: N3W Y34R5 M45H PR0GR4MM1NG C0N7357, Accelerated Aging, Slightly Less Special Primes, Cake Cutting
+  - Available in SFU cs-coder, uploading to Codeforces Polygon in progress
 
 - (2023) Rendering related stuff:
   - [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
