@@ -12,6 +12,9 @@ In the meantime I am building my own raytracer in C++. See repo: https://github.
 
 ![image](https://github.com/havocado/havocado/assets/47484587/8ec45da2-0e96-4073-82b6-c8217da1988f)
 
+![image](https://github.com/havocado/havocado/assets/47484587/92f962d8-2bb7-4ee9-9f15-1dc240e683a3)
+
+
 I am also writing up some 'what I learned' kind of posts:
 - [[PBRT] Understanding the Differential Equation for Absorption Cross Section in Volume Scattering](https://github.com/havocado/notes/blob/main/230913-understanding-absorption-cross-section.md)
 - (Still writing!) https://github.com/havocado/notes/blob/2310/ray-triangle-intersection/231018-triangle-collision-raytracing.md
